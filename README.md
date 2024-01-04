@@ -8,3 +8,6 @@ In my approach I have used [CenterFace model](https://github.com/chenjun2hao/Cen
 
 https://github.com/Dhruv0208/Face_Anonymizer/assets/51269047/080ea896-172a-477b-b740-5e6d58098f9d
 
+
+# Conda Environment
+The ennvironment for the code can be found in the [Environment File](https://github.com/Dhruv0208/Face_Anonymizer/blob/main/env_anonymizer.yml) to re-create the environment directly using conda and run the python notebook to recreate the results.
